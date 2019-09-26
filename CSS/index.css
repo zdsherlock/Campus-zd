@@ -12,5 +12,9 @@ div.container{
 }
 
 ul{
-    margin-left: auto;
+    margin-left:auto;
+}
+
+@@media min-width: 992px {
+    
 }
